@@ -1,0 +1,7 @@
+models
+mobilenet_v2
+training
+# Training dataset resoruces
+*.record
+# Blender tmp file
+*.blend1

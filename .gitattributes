@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.bin binary
+variables.index binary
+variables.data-* binary
+*.pb binary
+*.blend binary
+*.png binary
+*.jpe?g binary
